@@ -1,2 +1,2 @@
-# Linear-Regression
-Salary prediction model using linear regression.
+# Salary Prediction
+Salary prediction model using Machine Learning.
